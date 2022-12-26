@@ -1,6 +1,6 @@
 # Skin-prime
 
-Author  :   https://jetsadawijit.github.io/
+Author  :   https://jetsadawijit.github.io
 
 Youtube :   https://www.youtube.com/@jetsadawijit
 
